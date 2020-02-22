@@ -486,3 +486,6 @@ nnoremap a a<ESC>zza
 " Adding a new key for the Normal mode
 inoremap jk <ESC>
 
+" Adding a shortcut to autocheck the spelling of a word
+nnoremap <leader>f 1z=
+nnoremap <leader>s :set spell!

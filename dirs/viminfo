@@ -11,7 +11,7 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/runtime
+~MSle0~/git_push.sh
 
 # Last Substitute Search Pattern:
 ~MSle0&new
@@ -21,13 +21,15 @@ $old
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1582404566,,"wq"
+|2,0,1582406062,,"wq"
+:w | ./git_push.sh
+|2,0,1582406055,,"w | ./git_push.sh"
+:q
+|2,0,1582405289,,"q"
 :w
 |2,0,1582403556,,"w"
 :!ls
 |2,0,1582403213,,"!ls"
-:q
-|2,0,1582401275,,"q"
 :qw
 |2,0,1582398606,,"qw"
 :%s /new/old/g
@@ -68,6 +70,8 @@ $old
 |2,0,1582328514,,"122, 132 d"
 
 # Search String History (newest to oldest):
+? git_push.sh
+|2,1,1582406055,,"git_push.sh"
 ??runtime
 |2,1,1582401623,63,"runtime"
 ? new
@@ -137,39 +141,81 @@ $old
 |3,0,9,1,1,0,1582401756,"\" echo \"runtime vimrc\""
 ""-	CHAR	0
 	 
-|3,1,36,0,1,0,1582404562," "
+|3,1,36,0,1,0,1582406032," "
 
 # File marks:
-'0  6  23  ~/.vim/git_push.sh
-|4,48,6,23,1582404566,"~/.vim/git_push.sh"
-'1  8  0  ~/.vim/git_push.sh
-|4,49,8,0,1582404447,"~/.vim/git_push.sh"
-'2  8  0  ~/.vim/git_push.sh
-|4,50,8,0,1582404447,"~/.vim/git_push.sh"
-'3  1  3  ~/.vim/makefile
-|4,51,1,3,1582404302,"~/.vim/makefile"
-'4  17  0  ~/.vim/vimrc
-|4,52,17,0,1582404168,"~/.vim/vimrc"
-'5  472  0  ~/.vim/vimrc
-|4,53,472,0,1582404083,"~/.vim/vimrc"
-'6  472  0  ~/.vim/vimrc
-|4,54,472,0,1582404083,"~/.vim/vimrc"
-'7  8  9  ~/.vim/.gitignore
-|4,55,8,9,1582403697,"~/.vim/.gitignore"
-'8  21  54  ~/Research/sph/pysph/Sloshing_Tank/Case1_water_tank/test.txt
-|4,56,21,54,1582403568,"~/Research/sph/pysph/Sloshing_Tank/Case1_water_tank/test.txt"
-'9  1  0  ~/.vim/.gitignore
-|4,57,1,0,1582403549,"~/.vim/.gitignore"
+'0  491  0  ~/.vim/vimrc
+|4,48,491,0,1582406062,"~/.vim/vimrc"
+'1  25  0  ~/anaconda3/LICENSE.txt
+|4,49,25,0,1582405289,"~/anaconda3/LICENSE.txt"
+'2  6  23  ~/.vim/git_push.sh
+|4,50,6,23,1582404566,"~/.vim/git_push.sh"
+'3  8  0  ~/.vim/git_push.sh
+|4,51,8,0,1582404447,"~/.vim/git_push.sh"
+'4  8  0  ~/.vim/git_push.sh
+|4,52,8,0,1582404447,"~/.vim/git_push.sh"
+'5  1  3  ~/.vim/makefile
+|4,53,1,3,1582404302,"~/.vim/makefile"
+'6  17  0  ~/.vim/vimrc
+|4,54,17,0,1582404168,"~/.vim/vimrc"
+'7  17  0  ~/.vim/vimrc
+|4,55,17,0,1582404168,"~/.vim/vimrc"
+'8  472  0  ~/.vim/vimrc
+|4,56,472,0,1582404083,"~/.vim/vimrc"
+'9  472  0  ~/.vim/vimrc
+|4,57,472,0,1582404083,"~/.vim/vimrc"
 
 # Jumplist (newest first):
+-'  491  0  ~/.vim/vimrc
+|4,39,491,0,1582406062,"~/.vim/vimrc"
+-'  1  0  ~/.vim/vimrc
+|4,39,1,0,1582405926,"~/.vim/vimrc"
+-'  25  0  ~/anaconda3/LICENSE.txt
+|4,39,25,0,1582405289,"~/anaconda3/LICENSE.txt"
+-'  25  0  ~/anaconda3/LICENSE.txt
+|4,39,25,0,1582405289,"~/anaconda3/LICENSE.txt"
+-'  1  0  ~/anaconda3/LICENSE.txt
+|4,39,1,0,1582405229,"~/anaconda3/LICENSE.txt"
+-'  1  0  ~/anaconda3/LICENSE.txt
+|4,39,1,0,1582405229,"~/anaconda3/LICENSE.txt"
 -'  6  23  ~/.vim/git_push.sh
 |4,39,6,23,1582404566,"~/.vim/git_push.sh"
+-'  6  23  ~/.vim/git_push.sh
+|4,39,6,23,1582404566,"~/.vim/git_push.sh"
+-'  6  23  ~/.vim/git_push.sh
+|4,39,6,23,1582404566,"~/.vim/git_push.sh"
+-'  6  23  ~/.vim/git_push.sh
+|4,39,6,23,1582404566,"~/.vim/git_push.sh"
+-'  1  0  ~/.vim/git_push.sh
+|4,39,1,0,1582404511,"~/.vim/git_push.sh"
+-'  1  0  ~/.vim/git_push.sh
+|4,39,1,0,1582404511,"~/.vim/git_push.sh"
+-'  1  0  ~/.vim/git_push.sh
+|4,39,1,0,1582404511,"~/.vim/git_push.sh"
 -'  1  0  ~/.vim/git_push.sh
 |4,39,1,0,1582404511,"~/.vim/git_push.sh"
 -'  8  0  ~/.vim/git_push.sh
 |4,39,8,0,1582404447,"~/.vim/git_push.sh"
 -'  8  0  ~/.vim/git_push.sh
 |4,39,8,0,1582404447,"~/.vim/git_push.sh"
+-'  8  0  ~/.vim/git_push.sh
+|4,39,8,0,1582404447,"~/.vim/git_push.sh"
+-'  8  0  ~/.vim/git_push.sh
+|4,39,8,0,1582404447,"~/.vim/git_push.sh"
+-'  8  0  ~/.vim/git_push.sh
+|4,39,8,0,1582404447,"~/.vim/git_push.sh"
+-'  8  0  ~/.vim/git_push.sh
+|4,39,8,0,1582404447,"~/.vim/git_push.sh"
+-'  8  0  ~/.vim/git_push.sh
+|4,39,8,0,1582404447,"~/.vim/git_push.sh"
+-'  8  0  ~/.vim/git_push.sh
+|4,39,8,0,1582404447,"~/.vim/git_push.sh"
+-'  1  0  ~/.vim/git_push.sh
+|4,39,1,0,1582404326,"~/.vim/git_push.sh"
+-'  1  0  ~/.vim/git_push.sh
+|4,39,1,0,1582404326,"~/.vim/git_push.sh"
+-'  1  0  ~/.vim/git_push.sh
+|4,39,1,0,1582404326,"~/.vim/git_push.sh"
 -'  1  0  ~/.vim/git_push.sh
 |4,39,1,0,1582404326,"~/.vim/git_push.sh"
 -'  1  3  ~/.vim/makefile
@@ -180,6 +226,30 @@ $old
 |4,39,1,3,1582404302,"~/.vim/makefile"
 -'  1  3  ~/.vim/makefile
 |4,39,1,3,1582404302,"~/.vim/makefile"
+-'  1  3  ~/.vim/makefile
+|4,39,1,3,1582404302,"~/.vim/makefile"
+-'  1  3  ~/.vim/makefile
+|4,39,1,3,1582404302,"~/.vim/makefile"
+-'  1  3  ~/.vim/makefile
+|4,39,1,3,1582404302,"~/.vim/makefile"
+-'  1  3  ~/.vim/makefile
+|4,39,1,3,1582404302,"~/.vim/makefile"
+-'  1  3  ~/.vim/makefile
+|4,39,1,3,1582404302,"~/.vim/makefile"
+-'  1  3  ~/.vim/makefile
+|4,39,1,3,1582404302,"~/.vim/makefile"
+-'  1  3  ~/.vim/makefile
+|4,39,1,3,1582404302,"~/.vim/makefile"
+-'  1  3  ~/.vim/makefile
+|4,39,1,3,1582404302,"~/.vim/makefile"
+-'  1  3  ~/.vim/makefile
+|4,39,1,3,1582404302,"~/.vim/makefile"
+-'  1  3  ~/.vim/makefile
+|4,39,1,3,1582404302,"~/.vim/makefile"
+-'  1  3  ~/.vim/makefile
+|4,39,1,3,1582404302,"~/.vim/makefile"
+-'  1  3  ~/.vim/makefile
+|4,39,1,3,1582404302,"~/.vim/makefile"
 -'  17  0  ~/.vim/vimrc
 |4,39,17,0,1582404168,"~/.vim/vimrc"
 -'  17  0  ~/.vim/vimrc
@@ -196,6 +266,40 @@ $old
 |4,39,17,0,1582404168,"~/.vim/vimrc"
 -'  17  0  ~/.vim/vimrc
 |4,39,17,0,1582404168,"~/.vim/vimrc"
+-'  17  0  ~/.vim/vimrc
+|4,39,17,0,1582404168,"~/.vim/vimrc"
+-'  17  0  ~/.vim/vimrc
+|4,39,17,0,1582404168,"~/.vim/vimrc"
+-'  17  0  ~/.vim/vimrc
+|4,39,17,0,1582404168,"~/.vim/vimrc"
+-'  17  0  ~/.vim/vimrc
+|4,39,17,0,1582404168,"~/.vim/vimrc"
+-'  17  0  ~/.vim/vimrc
+|4,39,17,0,1582404168,"~/.vim/vimrc"
+-'  17  0  ~/.vim/vimrc
+|4,39,17,0,1582404168,"~/.vim/vimrc"
+-'  17  0  ~/.vim/vimrc
+|4,39,17,0,1582404168,"~/.vim/vimrc"
+-'  17  0  ~/.vim/vimrc
+|4,39,17,0,1582404168,"~/.vim/vimrc"
+-'  17  0  ~/.vim/vimrc
+|4,39,17,0,1582404168,"~/.vim/vimrc"
+-'  1  0  ~/.vim/vimrc
+|4,39,1,0,1582404152,"~/.vim/vimrc"
+-'  1  0  ~/.vim/vimrc
+|4,39,1,0,1582404152,"~/.vim/vimrc"
+-'  1  0  ~/.vim/vimrc
+|4,39,1,0,1582404152,"~/.vim/vimrc"
+-'  1  0  ~/.vim/vimrc
+|4,39,1,0,1582404152,"~/.vim/vimrc"
+-'  1  0  ~/.vim/vimrc
+|4,39,1,0,1582404152,"~/.vim/vimrc"
+-'  1  0  ~/.vim/vimrc
+|4,39,1,0,1582404152,"~/.vim/vimrc"
+-'  1  0  ~/.vim/vimrc
+|4,39,1,0,1582404152,"~/.vim/vimrc"
+-'  1  0  ~/.vim/vimrc
+|4,39,1,0,1582404152,"~/.vim/vimrc"
 -'  1  0  ~/.vim/vimrc
 |4,39,1,0,1582404152,"~/.vim/vimrc"
 -'  1  0  ~/.vim/vimrc
@@ -244,126 +348,43 @@ $old
 |4,39,472,0,1582404083,"~/.vim/vimrc"
 -'  472  0  ~/.vim/vimrc
 |4,39,472,0,1582404083,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1582404058,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1582404058,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1582404058,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1582404058,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1582404058,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1582404058,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1582404058,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1582404058,"~/.vim/vimrc"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  8  9  ~/.vim/.gitignore
-|4,39,8,9,1582403697,"~/.vim/.gitignore"
--'  1  0  ~/.vim/.gitignore
-|4,39,1,0,1582403637,"~/.vim/.gitignore"
--'  1  0  ~/.vim/.gitignore
-|4,39,1,0,1582403637,"~/.vim/.gitignore"
--'  1  0  ~/.vim/.gitignore
-|4,39,1,0,1582403637,"~/.vim/.gitignore"
--'  1  0  ~/.vim/.gitignore
-|4,39,1,0,1582403637,"~/.vim/.gitignore"
--'  1  0  ~/.vim/.gitignore
-|4,39,1,0,1582403637,"~/.vim/.gitignore"
--'  1  0  ~/.vim/.gitignore
-|4,39,1,0,1582403637,"~/.vim/.gitignore"
--'  1  0  ~/.vim/.gitignore
-|4,39,1,0,1582403637,"~/.vim/.gitignore"
--'  1  0  ~/.vim/.gitignore
-|4,39,1,0,1582403637,"~/.vim/.gitignore"
--'  1  0  ~/.vim/.gitignore
-|4,39,1,0,1582403637,"~/.vim/.gitignore"
--'  1  0  ~/.vim/.gitignore
-|4,39,1,0,1582403637,"~/.vim/.gitignore"
--'  1  0  ~/.vim/.gitignore
-|4,39,1,0,1582403637,"~/.vim/.gitignore"
--'  1  0  ~/.vim/.gitignore
-|4,39,1,0,1582403637,"~/.vim/.gitignore"
--'  1  0  ~/.vim/.gitignore
-|4,39,1,0,1582403637,"~/.vim/.gitignore"
--'  1  0  ~/.vim/.gitignore
-|4,39,1,0,1582403637,"~/.vim/.gitignore"
--'  1  0  ~/.vim/.gitignore
-|4,39,1,0,1582403637,"~/.vim/.gitignore"
--'  1  0  ~/.vim/.gitignore
-|4,39,1,0,1582403637,"~/.vim/.gitignore"
--'  1  0  ~/.vim/.gitignore
-|4,39,1,0,1582403637,"~/.vim/.gitignore"
--'  1  0  ~/.vim/.gitignore
-|4,39,1,0,1582403637,"~/.vim/.gitignore"
--'  1  0  ~/.vim/.gitignore
-|4,39,1,0,1582403637,"~/.vim/.gitignore"
+-'  472  0  ~/.vim/vimrc
+|4,39,472,0,1582404083,"~/.vim/vimrc"
+-'  472  0  ~/.vim/vimrc
+|4,39,472,0,1582404083,"~/.vim/vimrc"
+-'  472  0  ~/.vim/vimrc
+|4,39,472,0,1582404083,"~/.vim/vimrc"
+-'  472  0  ~/.vim/vimrc
+|4,39,472,0,1582404083,"~/.vim/vimrc"
+-'  472  0  ~/.vim/vimrc
+|4,39,472,0,1582404083,"~/.vim/vimrc"
+-'  472  0  ~/.vim/vimrc
+|4,39,472,0,1582404083,"~/.vim/vimrc"
+-'  472  0  ~/.vim/vimrc
+|4,39,472,0,1582404083,"~/.vim/vimrc"
+-'  472  0  ~/.vim/vimrc
+|4,39,472,0,1582404083,"~/.vim/vimrc"
+-'  472  0  ~/.vim/vimrc
+|4,39,472,0,1582404083,"~/.vim/vimrc"
 
 # History of marks within files (newest to oldest):
+
+> ~/.vim/vimrc
+	*	1582406058	0
+	"	491	0
+	^	491	31
+	.	491	0
+	+	488	0
+	+	472	0
+	+	17	0
+	+	489	54
+	+	491	0
+	+	490	0
+	+	491	0
+
+> ~/anaconda3/LICENSE.txt
+	*	1582405265	0
+	"	25	0
 
 > ~/.vim/git_push.sh
 	*	1582404563	0
@@ -381,15 +402,6 @@ $old
 	^	1	4
 	.	1	3
 	+	1	3
-
-> ~/.vim/vimrc
-	*	1582404165	0
-	"	17	0
-	^	17	26
-	.	17	0
-	+	488	0
-	+	472	0
-	+	17	0
 
 > ~/.vim/.gitignore
 	*	1582403696	0
