@@ -1,3 +1,8 @@
+ ,v
+j,v
+autoload/j,V
+*swpautoload,V
+tmp,V
 R,v
 E,v
 md  vimrc,v
@@ -11,8 +16,6 @@ I would,v
 This is my vim configuration.,v
 " echo "runtime vimrc",V
 ,V
-j,v
- ,v
 ",v
 " Changing the leader to Space Barlet mapleader = " ",v
 ,V

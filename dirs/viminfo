@@ -20,10 +20,10 @@
 $old
 
 # Command Line History (newest to oldest):
+:wq
+|2,0,1582403488,,"wq"
 :!ls
 |2,0,1582403213,,"!ls"
-:wq
-|2,0,1582403042,,"wq"
 :q
 |2,0,1582401275,,"q"
 :w
@@ -103,38 +103,24 @@ $old
 	The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the 
 |3,0,0,1,4,0,1582400909,"The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the ","The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the ","The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the ","The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the "
 "1	LINE	0
-	LICENSE  
-|3,0,1,1,1,0,1582403278,"LICENSE  "
+	autoload/j
+|3,0,1,1,1,0,1582403423,"autoload/j"
 "2	LINE	0
-	COPYRIGHT HOLDER
-|3,0,2,1,1,0,1582403123,"COPYRIGHT HOLDER"
+	*swp
+	autoload
+|3,0,2,1,2,0,1582403401,"*swp","autoload"
 "3	LINE	0
-	" echo "runtime vimrc"
-|3,0,3,1,1,0,1582401756,"\" echo \"runtime vimrc\""
+	tmp
+|3,0,3,1,1,0,1582403401,"tmp"
 "4	LINE	0
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-|3,0,4,1,13,0,1582401017,"","","","","","","","","","","","",""
-"5	CHAR	0
-	" Changing the leader to Space Bar
-	let mapleader = " "
-	
-	
-|3,0,5,0,4,0,1582400909,"\" Changing the leader to Space Bar","let mapleader = \" \"","",""
+	LICENSE  
+|3,0,4,1,1,0,1582403278,"LICENSE  "
+"5	LINE	0
+	COPYRIGHT HOLDER
+|3,0,5,1,1,0,1582403123,"COPYRIGHT HOLDER"
 "6	LINE	0
-	
-|3,0,6,1,1,0,1582400882,""
+	" echo "runtime vimrc"
+|3,0,6,1,1,0,1582401756,"\" echo \"runtime vimrc\""
 "7	LINE	0
 	
 	
@@ -149,44 +135,57 @@ $old
 	
 	
 	
-|3,0,7,1,13,0,1582400880,"","","","","","","","","","","","",""
-"8	LINE	0
-	"
-|3,0,8,1,1,0,1582400317,"\""
+|3,0,7,1,13,0,1582401017,"","","","","","","","","","","","",""
+"8	CHAR	0
+	" Changing the leader to Space Bar
+	let mapleader = " "
+	
+	
+|3,0,8,0,4,0,1582400909,"\" Changing the leader to Space Bar","let mapleader = \" \"","",""
 "9	LINE	0
 	
-|3,0,9,1,1,0,1582400175,""
+|3,0,9,1,1,0,1582400882,""
 ""-	CHAR	0
-	R
-|3,1,36,0,1,0,1582403301,"R"
+	 
+|3,1,36,0,1,0,1582403430," "
 
 # File marks:
-'0  7  7  ~/.vim/.gitignore
-|4,48,7,7,1582403309,"~/.vim/.gitignore"
-'1  2  3  ~/.vim/.gitignore
-|4,49,2,3,1582403145,"~/.vim/.gitignore"
-'2  2  3  ~/.vim/.gitignore
-|4,50,2,3,1582403145,"~/.vim/.gitignore"
-'3  1  35  ~/.vim/LICENSE
-|4,51,1,35,1582403042,"~/.vim/LICENSE"
-'4  6  38  ~/.vim/README.md
-|4,52,6,38,1582402899,"~/.vim/README.md"
-'5  488  0  ~/.vim/vimrc
-|4,53,488,0,1582401759,"~/.vim/vimrc"
-'6  488  9  ~/.vim/vimrc
-|4,54,488,9,1582401661,"~/.vim/vimrc"
-'7  61  0  /etc/vim/vimrc
-|4,55,61,0,1582401275,"/etc/vim/vimrc"
-'8  61  0  /usr/share/vim/vimrc
-|4,56,61,0,1582401228,"/usr/share/vim/vimrc"
-'9  1  0  ~/.vim/.vimrc
-|4,57,1,0,1582401112,"~/.vim/.vimrc"
+'0  3  2  ~/.vim/.gitignore
+|4,48,3,2,1582403488,"~/.vim/.gitignore"
+'1  1  0  ~/.vim/.gitignore
+|4,49,1,0,1582403357,"~/.vim/.gitignore"
+'2  6  7  ~/.vim/.gitignore
+|4,50,6,7,1582403309,"~/.vim/.gitignore"
+'3  6  7  ~/.vim/.gitignore
+|4,51,6,7,1582403309,"~/.vim/.gitignore"
+'4  7  7  ~/.vim/.gitignore
+|4,52,7,7,1582403309,"~/.vim/.gitignore"
+'5  7  7  ~/.vim/.gitignore
+|4,53,7,7,1582403309,"~/.vim/.gitignore"
+'6  3  3  ~/.vim/.gitignore
+|4,54,3,3,1582403145,"~/.vim/.gitignore"
+'7  3  3  ~/.vim/.gitignore
+|4,55,3,3,1582403145,"~/.vim/.gitignore"
+'8  3  3  ~/.vim/.gitignore
+|4,56,3,3,1582403145,"~/.vim/.gitignore"
+'9  3  3  ~/.vim/.gitignore
+|4,57,3,3,1582403145,"~/.vim/.gitignore"
 
 # Jumplist (newest first):
+-'  3  2  ~/.vim/.gitignore
+|4,39,3,2,1582403488,"~/.vim/.gitignore"
+-'  1  0  ~/.vim/.gitignore
+|4,39,1,0,1582403357,"~/.vim/.gitignore"
+-'  6  7  ~/.vim/.gitignore
+|4,39,6,7,1582403309,"~/.vim/.gitignore"
+-'  7  7  ~/.vim/.gitignore
+|4,39,7,7,1582403309,"~/.vim/.gitignore"
 -'  7  7  ~/.vim/.gitignore
 |4,39,7,7,1582403309,"~/.vim/.gitignore"
 -'  1  0  ~/.vim/.gitignore
 |4,39,1,0,1582403206,"~/.vim/.gitignore"
+-'  2  3  ~/.vim/.gitignore
+|4,39,2,3,1582403145,"~/.vim/.gitignore"
 -'  2  3  ~/.vim/.gitignore
 |4,39,2,3,1582403145,"~/.vim/.gitignore"
 -'  2  3  ~/.vim/.gitignore
@@ -201,6 +200,54 @@ $old
 |4,39,1,35,1582403042,"~/.vim/LICENSE"
 -'  1  35  ~/.vim/LICENSE
 |4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  7  459  ~/.vim/LICENSE
+|4,39,7,459,1582402962,"~/.vim/LICENSE"
+-'  7  459  ~/.vim/LICENSE
+|4,39,7,459,1582402962,"~/.vim/LICENSE"
+-'  7  459  ~/.vim/LICENSE
+|4,39,7,459,1582402962,"~/.vim/LICENSE"
+-'  7  459  ~/.vim/LICENSE
+|4,39,7,459,1582402962,"~/.vim/LICENSE"
+-'  7  459  ~/.vim/LICENSE
+|4,39,7,459,1582402962,"~/.vim/LICENSE"
+-'  7  459  ~/.vim/LICENSE
+|4,39,7,459,1582402962,"~/.vim/LICENSE"
+-'  7  459  ~/.vim/LICENSE
+|4,39,7,459,1582402962,"~/.vim/LICENSE"
+-'  7  459  ~/.vim/LICENSE
+|4,39,7,459,1582402962,"~/.vim/LICENSE"
+-'  7  459  ~/.vim/LICENSE
+|4,39,7,459,1582402962,"~/.vim/LICENSE"
+-'  7  459  ~/.vim/LICENSE
+|4,39,7,459,1582402962,"~/.vim/LICENSE"
+-'  7  459  ~/.vim/LICENSE
+|4,39,7,459,1582402962,"~/.vim/LICENSE"
+-'  7  459  ~/.vim/LICENSE
+|4,39,7,459,1582402962,"~/.vim/LICENSE"
 -'  7  459  ~/.vim/LICENSE
 |4,39,7,459,1582402962,"~/.vim/LICENSE"
 -'  7  459  ~/.vim/LICENSE
@@ -225,6 +272,54 @@ $old
 |4,39,6,38,1582402899,"~/.vim/README.md"
 -'  6  38  ~/.vim/README.md
 |4,39,6,38,1582402899,"~/.vim/README.md"
+-'  6  38  ~/.vim/README.md
+|4,39,6,38,1582402899,"~/.vim/README.md"
+-'  6  38  ~/.vim/README.md
+|4,39,6,38,1582402899,"~/.vim/README.md"
+-'  6  38  ~/.vim/README.md
+|4,39,6,38,1582402899,"~/.vim/README.md"
+-'  6  38  ~/.vim/README.md
+|4,39,6,38,1582402899,"~/.vim/README.md"
+-'  6  38  ~/.vim/README.md
+|4,39,6,38,1582402899,"~/.vim/README.md"
+-'  6  38  ~/.vim/README.md
+|4,39,6,38,1582402899,"~/.vim/README.md"
+-'  6  38  ~/.vim/README.md
+|4,39,6,38,1582402899,"~/.vim/README.md"
+-'  6  38  ~/.vim/README.md
+|4,39,6,38,1582402899,"~/.vim/README.md"
+-'  6  38  ~/.vim/README.md
+|4,39,6,38,1582402899,"~/.vim/README.md"
+-'  6  38  ~/.vim/README.md
+|4,39,6,38,1582402899,"~/.vim/README.md"
+-'  6  38  ~/.vim/README.md
+|4,39,6,38,1582402899,"~/.vim/README.md"
+-'  6  38  ~/.vim/README.md
+|4,39,6,38,1582402899,"~/.vim/README.md"
+-'  6  38  ~/.vim/README.md
+|4,39,6,38,1582402899,"~/.vim/README.md"
+-'  6  38  ~/.vim/README.md
+|4,39,6,38,1582402899,"~/.vim/README.md"
+-'  6  38  ~/.vim/README.md
+|4,39,6,38,1582402899,"~/.vim/README.md"
+-'  6  38  ~/.vim/README.md
+|4,39,6,38,1582402899,"~/.vim/README.md"
+-'  6  38  ~/.vim/README.md
+|4,39,6,38,1582402899,"~/.vim/README.md"
+-'  6  38  ~/.vim/README.md
+|4,39,6,38,1582402899,"~/.vim/README.md"
+-'  6  38  ~/.vim/README.md
+|4,39,6,38,1582402899,"~/.vim/README.md"
+-'  6  38  ~/.vim/README.md
+|4,39,6,38,1582402899,"~/.vim/README.md"
+-'  6  38  ~/.vim/README.md
+|4,39,6,38,1582402899,"~/.vim/README.md"
+-'  6  38  ~/.vim/README.md
+|4,39,6,38,1582402899,"~/.vim/README.md"
+-'  6  38  ~/.vim/README.md
+|4,39,6,38,1582402899,"~/.vim/README.md"
+-'  6  38  ~/.vim/README.md
+|4,39,6,38,1582402899,"~/.vim/README.md"
 -'  4  0  ~/.vim/README.md
 |4,39,4,0,1582402660,"~/.vim/README.md"
 -'  4  0  ~/.vim/README.md
@@ -241,165 +336,66 @@ $old
 |4,39,4,0,1582402660,"~/.vim/README.md"
 -'  4  0  ~/.vim/README.md
 |4,39,4,0,1582402660,"~/.vim/README.md"
--'  488  0  ~/.vim/vimrc
-|4,39,488,0,1582401759,"~/.vim/vimrc"
--'  488  0  ~/.vim/vimrc
-|4,39,488,0,1582401759,"~/.vim/vimrc"
--'  488  0  ~/.vim/vimrc
-|4,39,488,0,1582401759,"~/.vim/vimrc"
--'  488  0  ~/.vim/vimrc
-|4,39,488,0,1582401759,"~/.vim/vimrc"
--'  488  0  ~/.vim/vimrc
-|4,39,488,0,1582401759,"~/.vim/vimrc"
--'  488  0  ~/.vim/vimrc
-|4,39,488,0,1582401759,"~/.vim/vimrc"
--'  488  0  ~/.vim/vimrc
-|4,39,488,0,1582401759,"~/.vim/vimrc"
--'  488  0  ~/.vim/vimrc
-|4,39,488,0,1582401759,"~/.vim/vimrc"
--'  488  0  ~/.vim/vimrc
-|4,39,488,0,1582401759,"~/.vim/vimrc"
--'  488  0  ~/.vim/vimrc
-|4,39,488,0,1582401759,"~/.vim/vimrc"
--'  488  0  ~/.vim/vimrc
-|4,39,488,0,1582401759,"~/.vim/vimrc"
--'  488  0  ~/.vim/vimrc
-|4,39,488,0,1582401759,"~/.vim/vimrc"
--'  488  0  ~/.vim/vimrc
-|4,39,488,0,1582401759,"~/.vim/vimrc"
--'  488  0  ~/.vim/vimrc
-|4,39,488,0,1582401759,"~/.vim/vimrc"
--'  488  0  ~/.vim/vimrc
-|4,39,488,0,1582401759,"~/.vim/vimrc"
--'  488  0  ~/.vim/vimrc
-|4,39,488,0,1582401759,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1582401741,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1582401741,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1582401741,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1582401741,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1582401741,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1582401741,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1582401741,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1582401741,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1582401741,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1582401741,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1582401741,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1582401741,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1582401741,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1582401741,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1582401741,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1582401741,"~/.vim/vimrc"
--'  488  9  ~/.vim/vimrc
-|4,39,488,9,1582401661,"~/.vim/vimrc"
--'  488  9  ~/.vim/vimrc
-|4,39,488,9,1582401661,"~/.vim/vimrc"
--'  488  9  ~/.vim/vimrc
-|4,39,488,9,1582401661,"~/.vim/vimrc"
--'  488  9  ~/.vim/vimrc
-|4,39,488,9,1582401661,"~/.vim/vimrc"
--'  488  9  ~/.vim/vimrc
-|4,39,488,9,1582401661,"~/.vim/vimrc"
--'  488  9  ~/.vim/vimrc
-|4,39,488,9,1582401661,"~/.vim/vimrc"
--'  488  9  ~/.vim/vimrc
-|4,39,488,9,1582401661,"~/.vim/vimrc"
--'  488  9  ~/.vim/vimrc
-|4,39,488,9,1582401661,"~/.vim/vimrc"
--'  488  9  ~/.vim/vimrc
-|4,39,488,9,1582401661,"~/.vim/vimrc"
--'  488  9  ~/.vim/vimrc
-|4,39,488,9,1582401661,"~/.vim/vimrc"
--'  488  9  ~/.vim/vimrc
-|4,39,488,9,1582401661,"~/.vim/vimrc"
--'  488  9  ~/.vim/vimrc
-|4,39,488,9,1582401661,"~/.vim/vimrc"
--'  488  9  ~/.vim/vimrc
-|4,39,488,9,1582401661,"~/.vim/vimrc"
--'  488  9  ~/.vim/vimrc
-|4,39,488,9,1582401661,"~/.vim/vimrc"
--'  488  9  ~/.vim/vimrc
-|4,39,488,9,1582401661,"~/.vim/vimrc"
--'  488  9  ~/.vim/vimrc
-|4,39,488,9,1582401661,"~/.vim/vimrc"
--'  2  0  ~/.vim/vimrc
-|4,39,2,0,1582401627,"~/.vim/vimrc"
--'  2  0  ~/.vim/vimrc
-|4,39,2,0,1582401627,"~/.vim/vimrc"
--'  2  0  ~/.vim/vimrc
-|4,39,2,0,1582401627,"~/.vim/vimrc"
--'  2  0  ~/.vim/vimrc
-|4,39,2,0,1582401627,"~/.vim/vimrc"
--'  2  0  ~/.vim/vimrc
-|4,39,2,0,1582401627,"~/.vim/vimrc"
--'  2  0  ~/.vim/vimrc
-|4,39,2,0,1582401627,"~/.vim/vimrc"
--'  2  0  ~/.vim/vimrc
-|4,39,2,0,1582401627,"~/.vim/vimrc"
--'  2  0  ~/.vim/vimrc
-|4,39,2,0,1582401627,"~/.vim/vimrc"
--'  2  0  ~/.vim/vimrc
-|4,39,2,0,1582401627,"~/.vim/vimrc"
--'  2  0  ~/.vim/vimrc
-|4,39,2,0,1582401627,"~/.vim/vimrc"
--'  2  0  ~/.vim/vimrc
-|4,39,2,0,1582401627,"~/.vim/vimrc"
--'  2  0  ~/.vim/vimrc
-|4,39,2,0,1582401627,"~/.vim/vimrc"
--'  2  0  ~/.vim/vimrc
-|4,39,2,0,1582401627,"~/.vim/vimrc"
--'  2  0  ~/.vim/vimrc
-|4,39,2,0,1582401627,"~/.vim/vimrc"
--'  2  0  ~/.vim/vimrc
-|4,39,2,0,1582401627,"~/.vim/vimrc"
--'  2  0  ~/.vim/vimrc
-|4,39,2,0,1582401627,"~/.vim/vimrc"
--'  2  0  ~/.vim/vimrc
-|4,39,2,0,1582401627,"~/.vim/vimrc"
--'  2  0  ~/.vim/vimrc
-|4,39,2,0,1582401627,"~/.vim/vimrc"
--'  2  0  ~/.vim/vimrc
-|4,39,2,0,1582401627,"~/.vim/vimrc"
--'  2  0  ~/.vim/vimrc
-|4,39,2,0,1582401627,"~/.vim/vimrc"
--'  2  0  ~/.vim/vimrc
-|4,39,2,0,1582401627,"~/.vim/vimrc"
--'  2  0  ~/.vim/vimrc
-|4,39,2,0,1582401627,"~/.vim/vimrc"
--'  2  0  ~/.vim/vimrc
-|4,39,2,0,1582401627,"~/.vim/vimrc"
+-'  4  0  ~/.vim/README.md
+|4,39,4,0,1582402660,"~/.vim/README.md"
+-'  4  0  ~/.vim/README.md
+|4,39,4,0,1582402660,"~/.vim/README.md"
+-'  4  0  ~/.vim/README.md
+|4,39,4,0,1582402660,"~/.vim/README.md"
+-'  4  0  ~/.vim/README.md
+|4,39,4,0,1582402660,"~/.vim/README.md"
+-'  4  0  ~/.vim/README.md
+|4,39,4,0,1582402660,"~/.vim/README.md"
+-'  4  0  ~/.vim/README.md
+|4,39,4,0,1582402660,"~/.vim/README.md"
+-'  4  0  ~/.vim/README.md
+|4,39,4,0,1582402660,"~/.vim/README.md"
+-'  4  0  ~/.vim/README.md
+|4,39,4,0,1582402660,"~/.vim/README.md"
+-'  4  0  ~/.vim/README.md
+|4,39,4,0,1582402660,"~/.vim/README.md"
+-'  4  0  ~/.vim/README.md
+|4,39,4,0,1582402660,"~/.vim/README.md"
+-'  4  0  ~/.vim/README.md
+|4,39,4,0,1582402660,"~/.vim/README.md"
+-'  4  0  ~/.vim/README.md
+|4,39,4,0,1582402660,"~/.vim/README.md"
+-'  4  0  ~/.vim/README.md
+|4,39,4,0,1582402660,"~/.vim/README.md"
+-'  4  0  ~/.vim/README.md
+|4,39,4,0,1582402660,"~/.vim/README.md"
+-'  4  0  ~/.vim/README.md
+|4,39,4,0,1582402660,"~/.vim/README.md"
+-'  4  0  ~/.vim/README.md
+|4,39,4,0,1582402660,"~/.vim/README.md"
+-'  4  0  ~/.vim/README.md
+|4,39,4,0,1582402660,"~/.vim/README.md"
+-'  4  0  ~/.vim/README.md
+|4,39,4,0,1582402660,"~/.vim/README.md"
 
 # History of marks within files (newest to oldest):
 
 > ~/.vim/.gitignore
-	*	1582403307	0
-	"	7	7
-	^	7	8
-	.	7	7
-	+	1	1
-	+	2	3
+	*	1582403486	0
+	"	3	2
+	^	6	8
+	.	6	7
+	+	3	1
+	+	3	3
 	+	3	8
-	+	4	8
-	+	5	5
-	+	6	9
-	+	7	0
+	+	4	5
+	+	5	9
 	+	6	0
-	+	7	7
+	+	5	0
+	+	6	7
+	+	3	0
+	+	1	0
+	+	3	0
+	+	2	8
+	+	3	7
+	+	4	4
+	+	5	4
+	+	6	7
 
 > ~/.vim/LICENSE
 	*	1582403042	0
