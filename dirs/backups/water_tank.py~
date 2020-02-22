@@ -1,0 +1,48 @@
+"""This is a test text"""
+import numpy as np
+import os
+import pdb
+
+def transform(x, y):
+    """transformation"""
+    z = x+y
+    return z
+
+z = 5
+# x = 50
+# y = 60
+
+pdb.set_trace()
+transform(5, 10)
+print(z, transform(2, 3))
+print("Goals of my life is to go to the new world")
+pdb.set_trace()
+transform(5, 10)
+print(z, transform(2, 3))
+print("Goals of my life is to go to the new world")
+
+
+
+
+print
+print
+print
+
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+
+
+
+print
+print
+

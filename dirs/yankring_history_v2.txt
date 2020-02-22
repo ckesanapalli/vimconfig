@@ -1,0 +1,73 @@
+" echo "runtime vimrc",V
+,V
+j,v
+ ,v
+",v
+" Changing the leader to Space Barlet mapleader = " ",v
+,V
+",V
+The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the ,V
+>,v
+Leader,v
+<,v
+i,v
+l,v
+nnoremap a a<ESC>zzainoremap jk <ESC>,V
+inoremap <Leader>O O<Esc>zz,V
+inoremap <Leader>o o<Esc>zz,V
+n,v
+nnoremap <Leader>,V
+C,v
+S,v
+E,v
+<ESC,v
+ESC,v
+> ,v
+inoremap jk <ESC>,V
+inorema p,V
+z,v
+"keep cursor in the middle all the time :)nnoremap k kzznnoremap j jzznnoremap p pzznnoremap P Pzznnoremap G Gzznnoremap x xzzinoremap <ESC> <ESC>zznnoremap <ENTER> <ENTER>zzinoremap <ENTER> <ENTER><ESC>zzinnoremap o o<ESC>zzannoremap O O<ESC>zzannoremap a a<ESC>zzainorema p,V
+inoremap <leader>o 0,V
+he the ,V
+The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the ,V
+The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the ,V
+Called ,v
+Land  ,v
+import numpy as nptHE gOAL OF the Lesson of the Goal is to Find the     jasjd;fljasdfj;asdfj;asjdfl;as;fdlj;alsfj;asdfjajskl;fj;salfj;jLAJSFD;J;ASJFDL;JASDFjja;sdfj;lsjafd;j/. asdffthesda faktjljsfd.the the the the the the the the the the the the the the t,v
+the the the the ,V
+asfs;lfj,v
+kl;jsa;fjasd'fj,v
+asl;fjasd;fj;lasjf,V
+askljf;jasdfl;jsadfl;j,v
+The goal os somlsfjd.,v
+a,v
+t,v
+transform(5, 10)print(z, transform(2, 3))print("Goals of my life is to go to the new world")printprintprintprintprintprintprintprintprintprintprintprintprintprintprintprintprint,V
+printrint,V
+p,v
+print,v
+printprintprintprint,V
+printprint,V
+pdb.set_trace()transform(5, 10)print(z, transform(2, 3))print("Goals of my life is to go to the new world")print,v
+print print ,v
+prn,v
+int("\,v
+),v
+print("),V
+print("Goals of my life is to go to the new world")print("),V
+priprpripr,V
+ppripr,V
+r,v
+inoremap jk <ESC>let mapleader=" "filetype plugin indent onsyntax onset encoding=utf-8set clipboard=unnamedplus,V
+" http://vim.fisadev.com,V
+policy = ,V
+printprint(z,V
+[ -f ~/.fzf.bash ] && source ~/.fzf.bash# >>> conda initialize >>># !! Contents within this block are managed by 'conda init' !!__conda_setup="$('/home/ckesanapalli/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"if [ $? -eq 0 ]; then    eval "$__conda_setup"else    if [ -f "/home/ckesanapalli/anaconda3/etc/profile.d/conda.sh" ]; then        . "/home/ckesanapalli/anaconda3/etc/profile.d/conda.sh"    else        export PATH="/home/ckesanapalli/anaconda3/bin:$PATH"    fifiunset __conda_setup# <<< conda initialize <<<,V
+# <<< conda initialize <<<,V
+unset __conda_setup,V
+fi,V
+    fi,V
+print(np.array([1,1,1,1])),V
+print(np.array([0])),V
+import pysph,V
+import numpy as np,V
