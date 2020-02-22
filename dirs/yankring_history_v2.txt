@@ -1,3 +1,8 @@
+R,v
+E,v
+md  vimrc,v
+ADME.,v
+LICENSE  ,V
 COPYRIGHT HOLDER,V
 COPYRIGHT HOLDER,v
 YEAR,v
@@ -25,7 +30,6 @@ n,v
 nnoremap <Leader>,V
 C,v
 S,v
-E,v
 <ESC,v
 ESC,v
 > ,v
