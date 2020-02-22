@@ -1,6 +1,8 @@
-*swp
-autoload/
-bundle/ 
-dirs/	
-pack/  
-plugged/	
+# Ignore everything
+*
+
+# But not these files
+!.gitignore
+!vimrc
+!LICENSE
+!README.md

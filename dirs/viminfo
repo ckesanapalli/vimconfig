@@ -21,13 +21,13 @@ $old
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1582403488,,"wq"
+|2,0,1582403697,,"wq"
+:w
+|2,0,1582403556,,"w"
 :!ls
 |2,0,1582403213,,"!ls"
 :q
 |2,0,1582401275,,"q"
-:w
-|2,0,1582398691,,"w"
 :qw
 |2,0,1582398606,,"qw"
 :%s /new/old/g
@@ -101,77 +101,91 @@ $old
 	The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the 
 	The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the 
 	The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the 
-|3,0,0,1,4,0,1582400909,"The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the ","The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the ","The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the ","The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the "
-"1	LINE	0
+|3,0,0,1,4,0,1582403634,"The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the ","The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the ","The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the ","The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the "
+""1	LINE	0
+	lugged/	
+|3,1,1,1,1,0,1582403635,"lugged/	"
+"2	CHAR	0
+	*swp
+	autoload/
+	bundle/ 
+	dirs/	
+	pack/  
+	p
+|3,0,2,0,6,0,1582403634,"*swp","autoload/","bundle/ ","dirs/	","pack/  ","p"
+"3	LINE	0
 	autoload/j
-|3,0,1,1,1,0,1582403423,"autoload/j"
-"2	LINE	0
+|3,0,3,1,1,0,1582403423,"autoload/j"
+"4	LINE	0
 	*swp
 	autoload
-|3,0,2,1,2,0,1582403401,"*swp","autoload"
-"3	LINE	0
-	tmp
-|3,0,3,1,1,0,1582403401,"tmp"
-"4	LINE	0
-	LICENSE  
-|3,0,4,1,1,0,1582403278,"LICENSE  "
+|3,0,4,1,2,0,1582403401,"*swp","autoload"
 "5	LINE	0
-	COPYRIGHT HOLDER
-|3,0,5,1,1,0,1582403123,"COPYRIGHT HOLDER"
+	tmp
+|3,0,5,1,1,0,1582403401,"tmp"
 "6	LINE	0
-	" echo "runtime vimrc"
-|3,0,6,1,1,0,1582401756,"\" echo \"runtime vimrc\""
+	LICENSE  
+|3,0,6,1,1,0,1582403278,"LICENSE  "
 "7	LINE	0
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-|3,0,7,1,13,0,1582401017,"","","","","","","","","","","","",""
-"8	CHAR	0
-	" Changing the leader to Space Bar
-	let mapleader = " "
-	
-	
-|3,0,8,0,4,0,1582400909,"\" Changing the leader to Space Bar","let mapleader = \" \"","",""
+	COPYRIGHT HOLDER
+|3,0,7,1,1,0,1582403123,"COPYRIGHT HOLDER"
+"8	LINE	0
+	" echo "runtime vimrc"
+|3,0,8,1,1,0,1582401756,"\" echo \"runtime vimrc\""
 "9	LINE	0
 	
-|3,0,9,1,1,0,1582400882,""
-""-	CHAR	0
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+|3,0,9,1,13,0,1582401017,"","","","","","","","","","","","",""
+"-	CHAR	0
 	 
-|3,1,36,0,1,0,1582403430," "
+|3,0,36,0,1,0,1582403430," "
 
 # File marks:
-'0  3  2  ~/.vim/.gitignore
-|4,48,3,2,1582403488,"~/.vim/.gitignore"
-'1  1  0  ~/.vim/.gitignore
-|4,49,1,0,1582403357,"~/.vim/.gitignore"
-'2  6  7  ~/.vim/.gitignore
-|4,50,6,7,1582403309,"~/.vim/.gitignore"
-'3  6  7  ~/.vim/.gitignore
-|4,51,6,7,1582403309,"~/.vim/.gitignore"
-'4  7  7  ~/.vim/.gitignore
-|4,52,7,7,1582403309,"~/.vim/.gitignore"
-'5  7  7  ~/.vim/.gitignore
-|4,53,7,7,1582403309,"~/.vim/.gitignore"
-'6  3  3  ~/.vim/.gitignore
-|4,54,3,3,1582403145,"~/.vim/.gitignore"
-'7  3  3  ~/.vim/.gitignore
-|4,55,3,3,1582403145,"~/.vim/.gitignore"
-'8  3  3  ~/.vim/.gitignore
-|4,56,3,3,1582403145,"~/.vim/.gitignore"
-'9  3  3  ~/.vim/.gitignore
-|4,57,3,3,1582403145,"~/.vim/.gitignore"
+'0  8  9  ~/.vim/.gitignore
+|4,48,8,9,1582403697,"~/.vim/.gitignore"
+'1  21  54  ~/Research/sph/pysph/Sloshing_Tank/Case1_water_tank/test.txt
+|4,49,21,54,1582403568,"~/Research/sph/pysph/Sloshing_Tank/Case1_water_tank/test.txt"
+'2  1  0  ~/.vim/.gitignore
+|4,50,1,0,1582403549,"~/.vim/.gitignore"
+'3  4  0  ~/.vim/.gitignore
+|4,51,4,0,1582403549,"~/.vim/.gitignore"
+'4  1  2  ~/.vim/.gitignore
+|4,52,1,2,1582403488,"~/.vim/.gitignore"
+'5  1  2  ~/.vim/.gitignore
+|4,53,1,2,1582403488,"~/.vim/.gitignore"
+'6  3  2  ~/.vim/.gitignore
+|4,54,3,2,1582403488,"~/.vim/.gitignore"
+'7  3  2  ~/.vim/.gitignore
+|4,55,3,2,1582403488,"~/.vim/.gitignore"
+'8  1  0  ~/.vim/.gitignore
+|4,56,1,0,1582403357,"~/.vim/.gitignore"
+'9  1  0  ~/.vim/.gitignore
+|4,57,1,0,1582403357,"~/.vim/.gitignore"
 
 # Jumplist (newest first):
+-'  8  9  ~/.vim/.gitignore
+|4,39,8,9,1582403697,"~/.vim/.gitignore"
+-'  1  0  ~/.vim/.gitignore
+|4,39,1,0,1582403637,"~/.vim/.gitignore"
+-'  21  54  ~/Research/sph/pysph/Sloshing_Tank/Case1_water_tank/test.txt
+|4,39,21,54,1582403568,"~/Research/sph/pysph/Sloshing_Tank/Case1_water_tank/test.txt"
+-'  4  0  ~/.vim/.gitignore
+|4,39,4,0,1582403549,"~/.vim/.gitignore"
+-'  1  0  ~/.vim/.gitignore
+|4,39,1,0,1582403536,"~/.vim/.gitignore"
+-'  3  2  ~/.vim/.gitignore
+|4,39,3,2,1582403488,"~/.vim/.gitignore"
 -'  3  2  ~/.vim/.gitignore
 |4,39,3,2,1582403488,"~/.vim/.gitignore"
 -'  1  0  ~/.vim/.gitignore
@@ -180,10 +194,16 @@ $old
 |4,39,6,7,1582403309,"~/.vim/.gitignore"
 -'  7  7  ~/.vim/.gitignore
 |4,39,7,7,1582403309,"~/.vim/.gitignore"
+-'  6  7  ~/.vim/.gitignore
+|4,39,6,7,1582403309,"~/.vim/.gitignore"
+-'  7  7  ~/.vim/.gitignore
+|4,39,7,7,1582403309,"~/.vim/.gitignore"
 -'  7  7  ~/.vim/.gitignore
 |4,39,7,7,1582403309,"~/.vim/.gitignore"
 -'  1  0  ~/.vim/.gitignore
 |4,39,1,0,1582403206,"~/.vim/.gitignore"
+-'  2  3  ~/.vim/.gitignore
+|4,39,2,3,1582403145,"~/.vim/.gitignore"
 -'  2  3  ~/.vim/.gitignore
 |4,39,2,3,1582403145,"~/.vim/.gitignore"
 -'  2  3  ~/.vim/.gitignore
@@ -224,6 +244,102 @@ $old
 |4,39,1,35,1582403042,"~/.vim/LICENSE"
 -'  1  35  ~/.vim/LICENSE
 |4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
+-'  1  35  ~/.vim/LICENSE
+|4,39,1,35,1582403042,"~/.vim/LICENSE"
 -'  7  459  ~/.vim/LICENSE
 |4,39,7,459,1582402962,"~/.vim/LICENSE"
 -'  7  459  ~/.vim/LICENSE
@@ -256,146 +372,70 @@ $old
 |4,39,7,459,1582402962,"~/.vim/LICENSE"
 -'  7  459  ~/.vim/LICENSE
 |4,39,7,459,1582402962,"~/.vim/LICENSE"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  6  38  ~/.vim/README.md
-|4,39,6,38,1582402899,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
--'  4  0  ~/.vim/README.md
-|4,39,4,0,1582402660,"~/.vim/README.md"
+-'  7  459  ~/.vim/LICENSE
+|4,39,7,459,1582402962,"~/.vim/LICENSE"
 
 # History of marks within files (newest to oldest):
 
 > ~/.vim/.gitignore
-	*	1582403486	0
-	"	3	2
-	^	6	8
-	.	6	7
-	+	3	1
-	+	3	3
-	+	3	8
-	+	4	5
-	+	5	9
-	+	6	0
-	+	5	0
-	+	6	7
-	+	3	0
+	*	1582403696	0
+	"	8	9
+	^	8	10
+	.	8	9
+	+	1	1
+	+	1	3
+	+	1	8
+	+	1	5
+	+	1	9
+	+	1	0
+	+	1	7
+	+	1	0
+	+	1	8
+	+	1	7
+	+	1	4
+	+	1	7
+	+	1	19
+	+	6	5
+	+	8	9
+
+> ~/Research/sph/pysph/Sloshing_Tank/Case1_water_tank/test.txt
+	*	1582403567	0
+	"	21	54
+	^	21	55
+	.	21	54
+	+	1	53
+	+	1	0
+	+	1	8
+	+	1	15
+	+	1	22
+	+	1	0
+	+	1	1
+	+	1	0
+	+	1	3
+	+	1	1
+	+	1	174
+	+	1	0
+	+	1	7
+	+	1	85
+	+	1	86
+	+	1	70
+	+	1	89
+	+	2	0
 	+	1	0
 	+	3	0
-	+	2	8
-	+	3	7
-	+	4	4
-	+	5	4
-	+	6	7
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	19	0
+	+	18	0
+	+	19	14
+	+	20	0
+	+	16	0
+	+	14	89
+	+	20	0
+	+	21	54
 
 > ~/.vim/LICENSE
 	*	1582403042	0
@@ -522,44 +562,6 @@ $old
 	+	467	25
 	+	466	26
 	+	488	0
-
-> ~/Research/sph/pysph/Sloshing_Tank/Case1_water_tank/test.txt
-	*	1582400429	0
-	"	22	0
-	^	22	0
-	.	22	0
-	+	1	53
-	+	1	0
-	+	1	8
-	+	1	15
-	+	1	22
-	+	1	0
-	+	1	1
-	+	1	0
-	+	1	3
-	+	1	1
-	+	1	174
-	+	1	0
-	+	1	7
-	+	1	85
-	+	1	86
-	+	1	70
-	+	1	89
-	+	2	0
-	+	1	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	19	0
-	+	18	0
-	+	19	14
-	+	21	0
-	+	16	0
-	+	14	89
-	+	22	0
 
 > ~/Research/sph/pysph/Sloshing_Tank/Case1_water_tank/water_tank.py
 	*	1582395060	0

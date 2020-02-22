@@ -1,3 +1,6 @@
+lugged/	,V
+*swpautoload/bundle/ dirs/	pack/  p,v
+The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the ,V
  ,v
 j,v
 autoload/j,V
@@ -20,7 +23,6 @@ This is my vim configuration.,v
 " Changing the leader to Space Barlet mapleader = " ",v
 ,V
 ",V
-The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the The goal. Is to do the old life of. A bad person_at_a_restaurant end. Of the land of the ,V
 >,v
 Leader,v
 <,v

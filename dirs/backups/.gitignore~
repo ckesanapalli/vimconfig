@@ -1,7 +1,6 @@
-tmp
 *swp
-autoload
-bundle  
-dirs	
-pack  
-plugged	
+autoload/
+bundle/ 
+dirs/	
+pack/  
+plugged/	
