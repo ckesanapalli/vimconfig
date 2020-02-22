@@ -1,3 +1,8 @@
+COPYRIGHT HOLDER,v
+YEAR,v
+ love ,v
+I would,v
+This is my vim configuration.,v
 " echo "runtime vimrc",V
 ,V
 j,v
