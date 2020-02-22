@@ -485,5 +485,4 @@ nnoremap O O<ESC>zza
 nnoremap a a<ESC>zza
 " Adding a new key for the Normal mode
 inoremap jk <ESC>
-echo "runtime vimrc"
 

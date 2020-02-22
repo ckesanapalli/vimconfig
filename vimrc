@@ -14,7 +14,7 @@ let using_neovim = has('nvim')
 let using_vim = !using_neovim
 " Changing the leader to Space Bar
 let mapleader = " "
-
+set spell spelllang=en_us
 
 
 " ============================================================================
